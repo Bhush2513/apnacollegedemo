@@ -1,3 +1,3 @@
 # apnacollegedemo
 this is my first git repository
-autor-bhushan jadhav
+autor-bhushan jadhav(bj)
